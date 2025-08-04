@@ -6,6 +6,8 @@ Projeto desenvolvido em aula para testar funções no JavaScript, fazendo a cor 
 
 ## Tecnologias utilizadas
 - HTML5
+- CSS
+- JS
 - Imagem PNG
 
 ## Autora
